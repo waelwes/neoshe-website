@@ -5,7 +5,7 @@ const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const menuItems = [
-    { name: "HOME", href: "#home" },
+    { name: "HOME PAGE", href: "#home" },
     { name: "PRODUCTS", href: "#products" },
     { name: "ABOUT", href: "#about" },
     { name: "ROUTINE", href: "#routine" },
